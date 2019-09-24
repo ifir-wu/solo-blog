@@ -10,22 +10,22 @@ HɑCode皇阿码
 
 ### 最新
 
-* [Ubuntu安装gcc，g++，make，gdb](http://www.hacode.ltd/articles/2019/09/10/1568127686957.html)
-* [Anaconda基本命令](http://www.hacode.ltd/articles/2019/09/10/1568117511750.html)
-* [Anaconda更改镜像源及更新](http://www.hacode.ltd/articles/2019/09/10/1568116203158.html)
-* [Ubuntu安装Anaconda](http://www.hacode.ltd/articles/2019/09/10/1568115524895.html)
-* [国内镜像网站](http://www.hacode.ltd/articles/2019/09/09/1568019546119.html)
-* [Cygwin安装和配置](http://www.hacode.ltd/articles/2019/09/09/1568019356852.html)
-* [Ubuntu安装zsh和oh-my-zsh](http://www.hacode.ltd/articles/2019/09/09/1568018087531.html)
-* [Ubuntu软件源配置](http://www.hacode.ltd/articles/2019/09/09/1568017131072.html)
-* [Windows10安装Ubuntu子系统](http://www.hacode.ltd/articles/2019/09/09/1568016856190.html)
-* [MinGW旧版本或多版本共存](http://www.hacode.ltd/articles/2019/09/09/1568016203816.html)
-* [Cython数组的使用](http://www.hacode.ltd/articles/2019/09/09/1568015810489.html)
-* [Cython快速入门](http://www.hacode.ltd/articles/2019/09/09/1567992179932.html)
-* [Anaconda配置MinGW环境，以使用Cython](http://www.hacode.ltd/articles/2019/09/09/1567991734272.html)
-* [阿里云学生服务器、域名购买及配置](http://www.hacode.ltd/articles/2019/09/08/1567958120745.html)
-* [CentOS下的MySQL安装及配置](http://www.hacode.ltd/articles/2019/09/08/1567957261818.html)
-* [手把手教快速部署solo](http://www.hacode.ltd/solo)
+* [Ubuntu安装gcc，g++，make，gdb](https://www.hacode.ltd/articles/2019/09/10/1568127686957.html)
+* [Anaconda基本命令](https://www.hacode.ltd/articles/2019/09/10/1568117511750.html)
+* [Anaconda更改镜像源及更新](https://www.hacode.ltd/articles/2019/09/10/1568116203158.html)
+* [Ubuntu安装Anaconda](https://www.hacode.ltd/articles/2019/09/10/1568115524895.html)
+* [国内镜像网站](https://www.hacode.ltd/articles/2019/09/09/1568019546119.html)
+* [Cygwin安装和配置](https://www.hacode.ltd/articles/2019/09/09/1568019356852.html)
+* [Ubuntu安装zsh和oh-my-zsh](https://www.hacode.ltd/articles/2019/09/09/1568018087531.html)
+* [Ubuntu软件源配置](https://www.hacode.ltd/articles/2019/09/09/1568017131072.html)
+* [Windows10安装Ubuntu子系统](https://www.hacode.ltd/articles/2019/09/09/1568016856190.html)
+* [MinGW旧版本或多版本共存](https://www.hacode.ltd/articles/2019/09/09/1568016203816.html)
+* [Cython数组的使用](https://www.hacode.ltd/articles/2019/09/09/1568015810489.html)
+* [Cython快速入门](https://www.hacode.ltd/articles/2019/09/09/1567992179932.html)
+* [Anaconda配置MinGW环境，以使用Cython](https://www.hacode.ltd/articles/2019/09/09/1567991734272.html)
+* [阿里云学生服务器、域名购买及配置](https://www.hacode.ltd/articles/2019/09/08/1567958120745.html)
+* [CentOS下的MySQL安装及配置](https://www.hacode.ltd/articles/2019/09/08/1567957261818.html)
+* [手把手教快速部署solo](https://www.hacode.ltd/solo)
 
 
 
