@@ -10,7 +10,6 @@ HɑCode皇阿码
 
 ### 最新
 
-* [VSCode插件安装](https://www.hacode.ltd/articles/2019/09/25/1569351609054.html)
 * [Ubuntu安装gcc，g++，make，gdb](https://www.hacode.ltd/articles/2019/09/10/1568127686957.html)
 * [Anaconda基本命令](https://www.hacode.ltd/articles/2019/09/10/1568117511750.html)
 * [Anaconda更改镜像源及更新](https://www.hacode.ltd/articles/2019/09/10/1568116203158.html)
