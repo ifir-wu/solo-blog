@@ -10,6 +10,7 @@ HɑCode皇阿码
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.hacode.ltd/my-github-repos)
 * [Ubuntu安装gcc，g++，make，gdb](https://www.hacode.ltd/articles/2019/09/10/1568127686957.html)
 * [Anaconda基本命令](https://www.hacode.ltd/articles/2019/09/10/1568117511750.html)
 * [Anaconda更改镜像源及更新](https://www.hacode.ltd/articles/2019/09/10/1568116203158.html)
